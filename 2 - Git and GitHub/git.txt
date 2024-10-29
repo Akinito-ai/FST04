@@ -1,0 +1,17 @@
+Git Version
+git --Version
+
+git config --global user.name "username"
+git config --global user.email "email"
+git config user.name
+git config user.email
+
+// Initialized into a git Repository
+git Init
+
+// Git Three Stages
+
+// add files to the staging area
+git add .
+
+//git commit -m "Message"
