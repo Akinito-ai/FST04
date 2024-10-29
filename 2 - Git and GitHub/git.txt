@@ -15,3 +15,6 @@ git Init
 git add .
 
 //git commit -m "Message"
+
+//git status 
+Check status if there's not commited file or changes on txt file
