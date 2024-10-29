@@ -25,5 +25,6 @@ Check status if there's not commited file or changes on txt file
  git branch -a
  
  git checkout firstbranch
-
+ 
+ clear - clean all cmd
  
