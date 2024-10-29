@@ -18,3 +18,12 @@ git add .
 
 //git status 
 Check status if there's not commited file or changes on txt file
+
+//add a branch to our Repository
+ git branch "firstbranch"
+
+ git branch -a
+ 
+ git checkout firstbranch
+
+ 
