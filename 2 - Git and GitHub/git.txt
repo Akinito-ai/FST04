@@ -39,3 +39,15 @@ git checkout firstbranch
 
 //merging branch to the main branch
 git merge firstbranch
+
+//connecting to github
+git remote add origin [websitename]
+
+//changing master to main for consitency
+git branch -M main
+
+//Pushes our local repository to  remote repository -need  to use after creating the remote repository
+git push -u origin main
+
+//Pushes to our remote repository
+git push
