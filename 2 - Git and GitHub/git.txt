@@ -18,9 +18,3 @@ git add .
 
 //git status 
 Check status if there's not commited file or changes on txt file
-
-to check firstbranch  you need to do 
-//git checkout firstbranch
-
-to check master branch
-//git checkout master
