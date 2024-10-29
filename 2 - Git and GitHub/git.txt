@@ -18,3 +18,6 @@ git add .
 
 //git status 
 Check status if there's not commited file or changes on txt file
+
+//git merge --abort
+ to abort merge
