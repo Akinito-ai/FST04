@@ -22,5 +22,9 @@ Check status if there's not commited file or changes on txt file
 //git merge --abort
  to abort merge
 
- // clear - clean command
+//removing branch
+git branch -d [branchname]
+
+//clear
+ clean command
  
